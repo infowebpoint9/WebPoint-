@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 const LINKS = [
     { label: "Home", href: "#home" },
     { label: "Service", href: "#service" },
@@ -61,9 +59,6 @@ export const Footer = () => (
             </div>
             <div className="flex flex-col items-center justify-between gap-3 border-t border-[#FCF4E1]/10 py-7 sm:flex-row">
                 <p className="text-xs text-[#7A766E]">© 2026 WebPoint Development. All Rights Reserved.</p>
-                <Link to="/admin" data-testid="footer-admin-link" className="font-mono-brand text-[10px] uppercase tracking-[0.22em] text-[#7A766E] transition-colors hover:text-[#C8242B]">
-                    Admin
-                </Link>
             </div>
         </div>
     </footer>
