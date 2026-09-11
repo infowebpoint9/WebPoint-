@@ -49,10 +49,10 @@ export default function Admin() {
                     <ArrowLeft size={14} /> Back to site
                 </Link>
                 <div className="mt-6 flex items-center gap-3">
-                    <img src="/webpoint-mark.png" alt="WebPoint Development logo" className="h-10 w-10 rounded-xl" width={40} height={40} />
+                    <img src="/webpoint-mark.png" alt="WebCraft Development logo" className="h-10 w-10 rounded-xl" width={40} height={40} />
                     <div>
                         <h1 className="text-xl font-bold tracking-tight">Enquiries</h1>
-                        <p className="text-xs text-[#7A766E]">WebPoint Development — admin view</p>
+                        <p className="text-xs text-[#7A766E]">WebCraft Development — admin view</p>
                     </div>
                 </div>
 

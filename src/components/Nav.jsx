@@ -32,10 +32,10 @@ export const Nav = () => {
                 }`}
             >
                 <div className={`flex items-center justify-between px-4 sm:px-6 transition-all duration-500 ${scrolled ? "py-2.5" : "py-3.5"}`}>
-                    <a href="#home" className="flex items-center gap-3" data-testid="nav-logo" aria-label="WebPoint Development — home">
-                        <img src="/webpoint-mark.png" alt="WebPoint Development logo" className="h-9 w-9 rounded-lg" width={36} height={36} />
+                    <a href="#home" className="flex items-center gap-3" data-testid="nav-logo" aria-label="WebCraft Development — home">
+                        <img src="/webpoint-mark.png" alt="WebCraft Development logo" className="h-9 w-9 rounded-lg" width={36} height={36} />
                         <span className="leading-none">
-                            <span className="block text-[15px] font-bold tracking-tight text-[#FCF4E1]">WebPoint</span>
+                            <span className="block text-[15px] font-bold tracking-tight text-[#FCF4E1]">WebCraft</span>
                             <span className="mt-0.5 block text-[9px] font-medium uppercase tracking-[0.32em] text-[#B5B0A4]">Development</span>
                         </span>
                     </a>

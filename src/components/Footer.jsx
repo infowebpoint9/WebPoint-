@@ -13,9 +13,9 @@ export const Footer = () => (
             <div className="grid gap-8 pb-8 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr]">
                 <div>
                     <div className="flex items-center gap-3">
-                        <img src="/webpoint-mark.png" alt="WebPoint Development logo" className="h-10 w-10 rounded-xl" width={40} height={40} />
+                        <img src="/webpoint-mark.png" alt="WebCraft Development logo" className="h-10 w-10 rounded-xl" width={40} height={40} />
                         <span className="leading-none">
-                            <span className="block text-base font-bold tracking-tight text-[#FCF4E1]">WebPoint</span>
+                            <span className="block text-base font-bold tracking-tight text-[#FCF4E1]">WebCraft</span>
                             <span className="mt-0.5 block text-[9px] font-medium uppercase tracking-[0.32em] text-[#B5B0A4]">Development</span>
                         </span>
                     </div>
@@ -58,7 +58,7 @@ export const Footer = () => (
                 </div>
             </div>
             <div className="flex flex-col items-center justify-between gap-3 border-t border-[#FCF4E1]/10 py-7 sm:flex-row">
-                <p className="text-xs text-[#7A766E]">© 2026 WebPoint Development. All Rights Reserved.</p>
+                <p className="text-xs text-[#7A766E]">© 2026 WebCraft Development. All Rights Reserved.</p>
             </div>
         </div>
     </footer>

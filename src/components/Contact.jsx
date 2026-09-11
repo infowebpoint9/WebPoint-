@@ -20,7 +20,7 @@ export const Contact = () => {
         e.preventDefault();
         setSending(true);
 
-        const waText = `Hi WebPoint Development, I want to start my dropshipping store!
+        const waText = `Hi WebCraft Development, I want to start my dropshipping store!
 
 *Name:* ${form.name.trim()}
 *Email:* ${form.email.trim()}
@@ -85,7 +85,7 @@ export const Contact = () => {
                     <Reveal delay={0.15}>
                         <div className="mt-9 space-y-3">
                             <a
-                                href="https://wa.me/917861989254?text=Hi%20WebPoint%20Development%2C%20I%20want%20to%20start%20my%20dropshipping%20store."
+                                href="https://wa.me/917861989254?text=Hi%20WebCraft%20Development%2C%20I%20want%20to%20start%20my%20dropshipping%20store."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 data-testid="contact-whatsapp-btn"

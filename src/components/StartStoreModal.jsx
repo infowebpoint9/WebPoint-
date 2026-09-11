@@ -52,7 +52,7 @@ export const StartStoreModal = () => {
 
         setSending(true);
 
-        const waText = `Hi WebPoint Development, I want to start my dropshipping store!
+        const waText = `Hi WebCraft Development, I want to start my dropshipping store!
 
 *Full Name:* ${form.name.trim()}
 *Mobile Number:* ${form.phone.trim()}
