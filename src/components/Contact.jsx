@@ -27,7 +27,7 @@ export const Contact = () => {
 *Phone:* ${form.phone.trim()}
 *Message:* ${form.message.trim()}`;
 
-        const waUrl = `https://wa.me/917861989254?text=${encodeURIComponent(waText)}`;
+        const waUrl = `https://wa.me/919313371599?text=${encodeURIComponent(waText)}`;
 
         // Save enquiry locally so data is preserved
         try {
@@ -85,7 +85,7 @@ export const Contact = () => {
                     <Reveal delay={0.15}>
                         <div className="mt-9 space-y-3">
                             <a
-                                href="https://wa.me/917861989254?text=Hi%20WebCraft%20Development%2C%20I%20want%20to%20start%20my%20dropshipping%20store."
+                                href="https://wa.me/919313371599?text=Hi%20WebCraft%20Development%2C%20I%20want%20to%20start%20my%20dropshipping%20store."
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 data-testid="contact-whatsapp-btn"
@@ -96,7 +96,7 @@ export const Contact = () => {
                                 </span>
                                 <span>
                                     <span className="block text-[11px] font-medium uppercase tracking-[0.18em] text-[#7A766E]">WhatsApp</span>
-                                    <span className="block text-sm font-semibold text-[#FCF4E1]">+91 78619 89254</span>
+                                    <span className="block text-sm font-semibold text-[#FCF4E1]">+91 93133 71599</span>
                                 </span>
                             </a>
                             <a

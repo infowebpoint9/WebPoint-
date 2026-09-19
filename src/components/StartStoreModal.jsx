@@ -59,7 +59,7 @@ export const StartStoreModal = () => {
 *Email:* ${form.email.trim()}
 *Message:* ${form.message.trim() || "Ready to launch my dropshipping store."}`;
 
-        const waUrl = `https://wa.me/917861989254?text=${encodeURIComponent(waText)}`;
+        const waUrl = `https://wa.me/919313371599?text=${encodeURIComponent(waText)}`;
 
         // Save enquiry locally
         try {

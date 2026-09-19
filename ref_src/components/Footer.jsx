@@ -43,8 +43,8 @@ export const Footer = () => (
                     <span className="font-mono-brand text-[10px] uppercase tracking-[0.28em] text-[#7A766E]">Reach Us</span>
                     <ul className="mt-4 space-y-2.5 text-sm text-[#B5B0A4]">
                         <li>
-                            <a href="https://wa.me/917861989254" target="_blank" rel="noopener noreferrer" data-testid="footer-whatsapp-link" className="transition-colors hover:text-[#FCF4E1]">
-                                WhatsApp — +91 78619 89254
+                            <a href="https://wa.me/919313371599" target="_blank" rel="noopener noreferrer" data-testid="footer-whatsapp-link" className="transition-colors hover:text-[#FCF4E1]">
+                                WhatsApp — +91 93133 71599
                             </a>
                         </li>
                         <li>
