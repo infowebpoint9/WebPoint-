@@ -8,7 +8,7 @@ const LINKS = [
 ];
 
 export const Footer = () => (
-    <footer className="border-t border-[#FCF4E1]/10 pt-10 sm:pt-12" data-testid="site-footer">
+    <footer className="relative z-10 border-t border-[#FCF4E1]/10 pt-10 sm:pt-12" data-testid="site-footer">
         <div className="mx-auto max-w-7xl px-5 sm:px-8">
             <div className="grid gap-8 pb-8 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr]">
                 <div>

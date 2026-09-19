@@ -16,9 +16,9 @@ import { Footer } from "@/components/Footer";
 
 export default function Home() {
     return (
-        <div className="grain min-h-screen bg-[#0B0B0D] text-[#FCF4E1]">
+        <div className="grain relative min-h-screen bg-[#0B0B0D] text-[#FCF4E1]">
             <Nav />
-            <main>
+            <main className="relative z-10">
                 <Hero />
                 <Marquee />
                 <TrustGrid />
