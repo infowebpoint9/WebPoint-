@@ -58,7 +58,7 @@ export const Contact = () => {
                                 </span>
                             </a>
                             <a
-                                href="mailto:info.webpoint9@gmail.com"
+                                href="mailto:support@webcraftdevelopment.com"
                                 data-testid="contact-email-btn"
                                 className="glass-card flex items-center gap-4 rounded-2xl p-5"
                             >
@@ -67,7 +67,7 @@ export const Contact = () => {
                                 </span>
                                 <span>
                                     <span className="block text-[11px] font-medium uppercase tracking-[0.18em] text-[#7A766E]">Email</span>
-                                    <span className="block text-sm font-semibold text-[#FCF4E1]">info.webpoint9@gmail.com</span>
+                                    <span className="block text-sm font-semibold text-[#FCF4E1]">support@webcraftdevelopment.com</span>
                                 </span>
                             </a>
                             <p className="font-mono-brand pt-2 text-[10px] uppercase tracking-[0.22em] text-[#7A766E]">

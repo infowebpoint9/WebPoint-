@@ -45,8 +45,8 @@ export const Footer = () => (
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info.webpoint9@gmail.com" data-testid="footer-email-link" className="transition-colors hover:text-[#FCF4E1]">
-                                info.webpoint9@gmail.com
+                            <a href="mailto:support@webcraftdevelopment.com" data-testid="footer-email-link" className="transition-colors hover:text-[#FCF4E1]">
+                                support@webcraftdevelopment.com
                             </a>
                         </li>
                         <li>
